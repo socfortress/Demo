@@ -54,3 +54,4 @@ Client:
     filename_linux: /var/tmp/Velociraptor_Buffer.bin
     filename_windows: $TEMP/Velociraptor_Buffer.bin
     filename_darwin: /var/tmp/Velociraptor_Buffer.bin
+label: Auto_CoreCollection
