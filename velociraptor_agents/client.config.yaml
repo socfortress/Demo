@@ -7,7 +7,7 @@ Client:
   server_urls:
   - https://velo.socfortress.co:8000/
   labels:
-   - SOCFORTRESS
+   - LAB01
   ca_certificate: |
     -----BEGIN CERTIFICATE-----
     MIIDSzCCAjOgAwIBAgIQQILg1axHw3BctBE18q0mQzANBgkqhkiG9w0BAQsFADAa
