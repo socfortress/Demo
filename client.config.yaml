@@ -6,28 +6,30 @@ version:
 Client:
   server_urls:
   - https://velo.socfortress.co:8000/
+  labels:
+   - SOCFORTRESS
   ca_certificate: |
     -----BEGIN CERTIFICATE-----
-    MIIDSzCCAjOgAwIBAgIQRbOnNcgVZXYGoTFzk8c7oTANBgkqhkiG9w0BAQsFADAa
-    MRgwFgYDVQQKEw9WZWxvY2lyYXB0b3IgQ0EwHhcNMjExMjIxMjIzOTQxWhcNMzEx
-    MjE5MjIzOTQxWjAaMRgwFgYDVQQKEw9WZWxvY2lyYXB0b3IgQ0EwggEiMA0GCSqG
-    SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDOQlvpuyh13elsgQ6xhoQSi62Q6+t6TqEF
-    YTuxvWcgxb3xVIiYbjoPcYyQBBZTPt+wZg5Vu+gBdzsK/9kwuv4KhpZZTl2wRkNx
-    MjPSH6c+IIJ9qVCtHShz9uFNUJFwKlNCDGkhzsfmH5em87IYW7z146gvlwwq8ips
-    ya2GYvupTQYtY2HGcK0z9PXasYNthMHAGzSQ4+6KieTZixfYvBkvNJSYMETYt3Rd
-    e39DVkLPNT4eXEAitRxNP63uvIXMI9UkJvYCTeGiLNzPiksMCLYOOIL6dpYdfnfm
-    a/JIJVI7hk/O2AE4xmlWrGQ5g3UIqc/cxODPsmNVHAok3xk7JaiFAgMBAAGjgYww
+    MIIDSzCCAjOgAwIBAgIQQILg1axHw3BctBE18q0mQzANBgkqhkiG9w0BAQsFADAa
+    MRgwFgYDVQQKEw9WZWxvY2lyYXB0b3IgQ0EwHhcNMjIwMTEzMjEyNzQ0WhcNMzIw
+    MTExMjEyNzQ0WjAaMRgwFgYDVQQKEw9WZWxvY2lyYXB0b3IgQ0EwggEiMA0GCSqG
+    SIb3DQEBAQUAA4IBDwAwggEKAoIBAQD19MpEA2oXNoV4I5JQGL0woAQzlfD1gk4p
+    I4s8g47cuXooPHOBiIFu2VOEX8RcPEX/z/IAZdWIFjqP+vDhjIm0mPPjUoDnXzAk
+    dYh+l8R5KDsH51lF39IQpX1h26oyHeBTtXetpeq1XgX6c7EhJP/wba7b9aZl4izc
+    UdJiy8QdrKkRV4Bne6dT2Ovfq4kx8nP3gEc5uRsGr3AKjML8vVCwe0pMJPc8nRSq
+    VzImbA3tw+5IPqrt6BaEPpwHecx3q2GjxgpUI3nu0df6Bju9PKv9JTvznvOkOxBb
+    2CYoRbQ+MAun4nYG0sl/knBs3rtbQlvv3JRbLmunIaagMjAfwFVnAgMBAAGjgYww
     gYkwDgYDVR0PAQH/BAQDAgKkMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
-    AjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBSq5k694y7zWHhCWzdokQTJ1eQg
-    RTAoBgNVHREEITAfgh1WZWxvY2lyYXB0b3JfY2EudmVsb2NpZGV4LmNvbTANBgkq
-    hkiG9w0BAQsFAAOCAQEAKoaw6AEPslxSg09emYKhJWmN2B/hm5mFp9C7JxvRNgzL
-    U5DhFznfURNoyg3waAk1qks8iny/WuX0GHnK8bkSvgyYBapqry/jmcU1EVlNRpAf
-    0o0sgu1mUM5q9xA1+Oxc2b9/FN96Z09x8WNSmwKwR49008tdgbrdV4+3rJHrI557
-    7O+fkaTEcI3B71DfgmBBBauY8OVGSk+kGBm3o4bDk/kqiKBAT9vFrA+LIDg22nL7
-    jzMYZmiqvn+0IGNmXdGryUtX/0fDy+CTbNwlzBUHxzECBXSdT3aUS6La9MfrrtNe
-    NZr9FExn+7w0s/j7iwVJTM7WqAgRg15NoaDK16RqJg==
+    AjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBQcmQWDsz6DzWJZHYnphQuIAmox
+    /DAoBgNVHREEITAfgh1WZWxvY2lyYXB0b3JfY2EudmVsb2NpZGV4LmNvbTANBgkq
+    hkiG9w0BAQsFAAOCAQEA6I7PzbX9wT8ILtn7CYVNGSrbVwHX+ql88aeCIDfSXSKV
+    UWwBH558mEo3T1FjPI3hkEBm0ti30WLgqMg3SpGzghSzDJ/T7+6E40UHEN9gFuf4
+    mRo6PFWrbhWgMp6hp8VRW9HTUSJZA3mN6mJXy+TcddfoBNk5AIpQP4obNXlCEY2k
+    uAO6jlDxxfAqtBtyN4m4dZJkkTA7wdKJrGQhhgcKnGEKw5fdjo1OkJ1+AQUxAl4V
+    2LIwu0tDxgjDLoo4dx/aNaZtYkD3LX37qvLH8F8qf44Hf8RIfYp/pU0JeSyHQhC3
+    Pby8BjfE71UqWuVw2pk0O7PLhw+pKFFcbzV8AMKIbQ==
     -----END CERTIFICATE-----
-  nonce: 7OKVn0qzO8w=
+  nonce: rAk7Lc4c2Us=
   writeback_darwin: /etc/velociraptor.writeback.yaml
   writeback_linux: /etc/velociraptor.writeback.yaml
   writeback_windows: $ProgramFiles\Velociraptor\velociraptor.writeback.yaml
@@ -54,4 +56,3 @@ Client:
     filename_linux: /var/tmp/Velociraptor_Buffer.bin
     filename_windows: $TEMP/Velociraptor_Buffer.bin
     filename_darwin: /var/tmp/Velociraptor_Buffer.bin
-label: Auto_CoreCollection
